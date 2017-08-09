@@ -25,7 +25,8 @@ I'm making edits in the testing tree. more changes
 Made some more edits to learn about branching
 >>>>>>> master
 
-I created an entirely new resolution.
-
-
-THis is the original text.
+<<<<<<< HEAD
+What happens here if I also edit the file in master?
+=======
+this line was added in testing
+>>>>>>> testing
