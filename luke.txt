@@ -19,4 +19,8 @@ more edits
 sdlfksdfk this is a tesdfsdfsdf
 
 
+<<<<<<< HEAD
 I'm making edits in the testing tree. more changes
+=======
+Made some more edits to learn about branching
+>>>>>>> master
