@@ -28,4 +28,5 @@ Made some more edits to learn about branching
 I created an entirely new resolution.
 
 
-THis is the master change 1text.
+
+THis is a combo of the master and testing change text.
