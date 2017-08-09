@@ -25,4 +25,4 @@ I'm making edits in the testing tree. more changes
 Made some more edits to learn about branching
 >>>>>>> master
 
-What happens here if I also edit the file in master?
+I created an entirely new resolution.
